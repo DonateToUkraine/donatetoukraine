@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1908858edade6592634c53abedf3e60b7c5099eb",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1908858edade6592634c53abedf3e60b7c5099eb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Donate To Ukraine",
+  "SYMBOL": "Donation",
+  "MAX_SUPPLY": 50000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 7,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/donate-to-ukraine-v2",
+  "SHOW_BACKGROUND": true
+}
